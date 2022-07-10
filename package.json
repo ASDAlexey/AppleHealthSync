@@ -1,0 +1,11 @@
+{
+  "name": "applehealthsync",
+  "version": "1.0.0",
+  "description": "Apple Health sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Popov",
+  "license": "ISC"
+}
